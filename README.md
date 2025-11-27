@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Marco N. (Knowned as HighMark IT)**
-**CEO @ EnderDevelopment** · **FullStack Developer** · **Minecraft Developer**  
+**CEO @ EnderDevelopment** **Founder @ YecoAI**· **FullStack Developer** · **Minecraft Developer**  
 **IT · 17Y**
 
 <a href="https://highmark.it">
