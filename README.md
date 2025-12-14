@@ -4,7 +4,7 @@
 
 ### **Full-Stack Developer | AI Engineer | Cybersecurity Enthusiast**
 
-**🎯 CEO @ EnderDevelopment** | **🤖 Founder @ YecoAI** | **🎮 Minecraft & FiveM Developer**
+**🎯 CEO @ EnderDevelopment** | **🤖 Founder @ YecoAI** | **🎮 Game (Minecraft) Developer**
 
 *Building intelligent systems, securing networks, and scaling businesses through code.*
 
