@@ -1,58 +1,152 @@
 <div align="center">
 
-# 👋 Hi, I'm **Marco N. (Knowned as HighMark IT)**
-**CEO @ EnderDevelopment** **Founder @ YecoAI**· **FullStack Developer** · **Minecraft Developer**  
-**IT · 17Y**
+# 👋 Welcome to HighMark's Code Lab
 
-<a href="https://highmark.it">
-  <img src="https://img.shields.io/badge/Visit-HighMark.it-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://instagram.com/highmark_it">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:mark@enderdevelopment.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### **Full-Stack Developer | AI Engineer | Cybersecurity Enthusiast**
+
+**🎯 CEO @ EnderDevelopment** | **🤖 Founder @ YecoAI** | **🎮 Minecraft & FiveM Developer**
+
+*Building intelligent systems, securing networks, and scaling businesses through code.*
+
+---
+
+</div>
+
+## 🚀 About Me
+
+I'm Marco, a 17-year veteran in IT with deep expertise in **full-stack development**, **AI/ML engineering**, and **cybersecurity**. I thrive on solving complex problems and turning ideas into production-grade solutions.
+
+**What I do:**
+- 🤖 **Design & Deploy AI Agents** - From LLM orchestration to autonomous workflows
+- 🧠 **Prompt Engineering & LLM Optimization** - Crafting high-performance AI chains
+- 🏗️ **Full-Stack Architecture** - Frontend to backend, database to deployment
+- 🔐 **Cybersecurity Solutions** - Penetration testing, security toolkits, network analysis
+- 🎮 **Game Server Infrastructure** - Minecraft, FiveM, and custom game development
+- 📊 **Data Engineering** - ETL pipelines, analytics, real-time processing
+
+---
+
+## 💻 Tech Stack
+
+### 🤖 AI & Machine Learning
+- **LLM Frameworks**: LangChain, LlamaIndex, CrewAI
+- **Prompt Engineering**: Advanced prompting techniques, Few-shot learning, Chain-of-thought
+- **AI Agents**: Multi-agent systems, RAG, Function calling
+- **ML Libraries**: PyTorch, TensorFlow, scikit-learn, NumPy, Pandas
+- **Models**: GPT-4, Claude, Llama 2/3, Mistral, Local LLMs (Ollama, LM Studio)
+
+### 🌐 Web & App Development
+- **Frontend**: React, Next.js, Vue.js, TypeScript, TailwindCSS, Bootstrap
+- **Backend**: Node.js, FastAPI, Python, PHP, .NET/C#
+- **Build Tools**: Vite, Webpack, NPM, Yarn, Bun
+- **Databases**: MySQL, PostgreSQL, SQLite, MongoDB, Redis
+
+### 🔐 Security & DevOps
+- **Security**: Network testing, Penetration testing, SSL/TLS, Web security analysis
+- **DevOps**: Docker, CI/CD pipelines, Cloudflare, Git/GitHub, Linux/Windows
+- **Infrastructure**: Pterodactyl, APanel, Server management, Load balancing
+
+### 🎮 Game Development
+- **Minecraft**: Spigot plugins, Custom servers, Bukkit API, Paper server optimization
+- **FiveM/GTA**: Custom scripts, Lua/JavaScript, ESX frameworks
+- **Game Servers**: Multi-server orchestration, Performance optimization
+
+### 📊 Data & Analytics
+- **Data Processing**: ETL, data pipelines, batch & real-time processing
+- **Visualization**: Matplotlib, Plotly, Power BI
+- **Big Data**: Spark, distributed computing concepts
+
+### 🛠️ Other
+- **Languages**: Python, JavaScript/TypeScript, PHP, C#, Java, C, Lua
+- **IoT**: Arduino, Raspberry Pi, embedded systems
+- **VPN/Privacy**: TOR, proxy systems
+
+---
+
+## 🎯 Key Projects & Initiatives
+
+### 🤖 **YecoAI** - AI Agent Platform
+Building enterprise-grade AI agent solutions with:
+- Custom LLM integrations (GPT-4, Claude, local models)
+- Multi-agent orchestration & collaboration
+- Advanced prompt engineering & optimization
+- RAG (Retrieval-Augmented Generation) systems
+
+### 🏢 **EnderDevelopment** - Full-Stack Solutions
+Enterprise development services including:
+- Web & mobile application development
+- AI/ML system integration
+- Game server infrastructure
+- Cybersecurity assessments
+
+### 🔐 **CyberKit** - Security Toolkit
+Open-source cybersecurity suite with tools for:
+- Network analysis (Ping, Traceroute, Whois)
+- Web security testing (HTTP headers, XSS detection)
+- Password strength evaluation & generation
+- Hash generation & cryptographic operations
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![HighMark-31's GitHub stats](https://github-readme-stats.vercel.app/api?username=HighMark-31&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Contribution Streak](https://nirzak-streak-stats.vercel.app/?user=HighMark-31&theme=vue-dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HighMark-31&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
 
-## About Me
-- CEO EnderDevelopment  
-- FullStack Developer  
-- Minecraft Developer  
-- IT - 17Y | highmark.it
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-HighMark.IT-blue?style=for-the-badge&logo=globe)](https://highmark.it)
+[![Instagram](https://img.shields.io/badge/Instagram-@highmark_it-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/highmark_it)
+[![Email](https://img.shields.io/badge/Email-mark@enderdevelopment.com-D14836?style=for-the-badge&logo=gmail)](mailto:mark@enderdevelopment.com)
+[![PayPal](https://img.shields.io/badge/Support_Me-PayPal-0070BA?style=for-the-badge&logo=paypal)](https://paypal.me/highmark31)
+
+</div>
 
 ---
 
-## 💻 Tech Stack (overview)
-`Web/App` → HTML5 · CSS3 · JavaScript · TypeScript · Node.js · Next.js · Vite · TailwindCSS · Bootstrap · NPM  
-`Backend/API` → Python · FastAPI · PHP · .NET/C#  
-`Data/Infra` → MySQL · SQLite · Docker · Cloudflare · Git/GitHub · Windows Terminal · Bash  
-`AI/Data` → NumPy · SciPy · scikit-learn · PyTorch · TensorFlow · Matplotlib  
-`Altro` → Java · C · Arduino · Raspberry Pi · TOR
+## 💡 Current Focus
 
-<details>
-  <summary><strong>👀 Vedi tutti i badge</strong></summary>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-
-</details>
+- 🔬 **Advanced AI Engineering**: Multi-agent systems, prompt optimization, RAG implementations
+- 🌍 **Scalable Backend Architecture**: Microservices, distributed systems, cloud-native solutions
+- 🔐 **Security Enhancement**: Continuous security testing, vulnerability assessment, best practices
+- 🚀 **Performance Optimization**: Code optimization, database tuning, DevOps automation
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HighMark-31&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=HighMark-31&theme=vue-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HighMark-31&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📖 Philosophy
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HighMark-31&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> *"Code is poetry. AI is the future. Security is not optional."*
+
+I believe in:
+- **Quality over Quantity** - Well-architected, maintainable code
+- **Continuous Learning** - Staying ahead of tech trends
+- **Security First** - Building with security as a core principle
+- **Collaboration** - Open source contributions and community engagement
+- **Innovation** - Exploring cutting-edge technologies like AI agents and LLMs
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=HighMark-31&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-## 💰 Support
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/highmark31)
+### 🌟 Let's build something amazing together!
+
+**Open to collaborations on AI, web development, and cybersecurity projects.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-HighMark--31-181717?style=for-the-badge&logo=github)](https://github.com/HighMark-31)
+
+---
+
+*"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
+
+</div>
