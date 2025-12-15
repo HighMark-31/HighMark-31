@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to HighMark's Code Lab
+# 👋 Welcome to HighMark's GitHub
 
 ### **Full-Stack Developer | AI Engineer | Cybersecurity Enthusiast**
 
