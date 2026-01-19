@@ -33,7 +33,7 @@ I'm Marco, a 17-year veteran in IT with deep expertise in **full-stack developme
 - **Prompt Engineering**: Advanced prompting techniques, Few-shot learning, Chain-of-thought
 - **AI Agents**: Multi-agent systems, RAG, Function calling
 - **ML Libraries**: PyTorch, TensorFlow, scikit-learn, NumPy, Pandas
-- **Models**: GPT-4, Claude, Llama 2/3, Mistral, Local LLMs (Ollama, LM Studio)
+- **Models**: GPT-5, Gemini 3, Claude, Llama 2/3, Mistral, Local LLMs (Ollama, LM Studio)
 
 ### 🌐 Web & App Development
 - **Frontend**: React, Next.js, Vue.js, TypeScript, TailwindCSS, Bootstrap
@@ -48,7 +48,6 @@ I'm Marco, a 17-year veteran in IT with deep expertise in **full-stack developme
 
 ### 🎮 Game Development
 - **Minecraft**: Spigot plugins, Custom servers, Bukkit API, Paper server optimization
-- **FiveM/GTA**: Custom scripts, Lua/JavaScript, ESX frameworks
 - **Game Servers**: Multi-server orchestration, Performance optimization
 
 ### 📊 Data & Analytics
@@ -65,8 +64,8 @@ I'm Marco, a 17-year veteran in IT with deep expertise in **full-stack developme
 
 ## 🎯 Key Projects & Initiatives
 
-### 🤖 **YecoAI** - AI Agent Platform
-Building enterprise-grade AI agent solutions with:
+### 🤖 **YecoAI** - AI research Platform
+Building enterprise-grade AI solutions with:
 - Custom LLM integrations (GPT-4, Claude, local models)
 - Multi-agent orchestration & collaboration
 - Advanced prompt engineering & optimization
