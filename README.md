@@ -28,62 +28,37 @@ I'm Marco, a 17-year veteran in IT with deep expertise in **full-stack developme
 
 ## 💻 Tech Stack
 
-### 🤖 AI & Machine Learning
-- **LLM Frameworks**: LangChain, LlamaIndex, CrewAI
-- **Prompt Engineering**: Advanced prompting techniques, Few-shot learning, Chain-of-thought
-- **AI Agents**: Multi-agent systems, RAG, Function calling
-- **ML Libraries**: PyTorch, TensorFlow, scikit-learn, NumPy, Pandas
-- **Models**: GPT-5, Gemini 3, Claude, Llama 2/3, Mistral, Local LLMs (Ollama, LM Studio)
-
-### 🌐 Web & App Development
-- **Frontend**: React, Next.js, Vue.js, TypeScript, TailwindCSS, Bootstrap
-- **Backend**: Node.js, FastAPI, Python, PHP, .NET/C#
-- **Build Tools**: Vite, Webpack, NPM, Yarn, Bun
-- **Databases**: MySQL, PostgreSQL, SQLite, MongoDB, Redis
-
-### 🔐 Security & DevOps
-- **Security**: Network testing, Penetration testing, SSL/TLS, Web security analysis
-- **DevOps**: Docker, CI/CD pipelines, Cloudflare, Git/GitHub, Linux/Windows
-- **Infrastructure**: Pterodactyl, APanel, Server management, Load balancing
-
-### 🎮 Game Development
-- **Minecraft**: Spigot plugins, Custom servers, Bukkit API, Paper server optimization
-- **Game Servers**: Multi-server orchestration, Performance optimization
-
-### 📊 Data & Analytics
-- **Data Processing**: ETL, data pipelines, batch & real-time processing
-- **Visualization**: Matplotlib, Plotly, Power BI
-- **Big Data**: Spark, distributed computing concepts
-
-### 🛠️ Other
-- **Languages**: Python, JavaScript/TypeScript, PHP, C#, Java, C, Lua
-- **IoT**: Arduino, Raspberry Pi, embedded systems
-- **VPN/Privacy**: TOR, proxy systems
+<img width="2306" height="888" alt="Profile_Banner_final" src="https://github.com/user-attachments/assets/c2bde71c-8fb6-4a21-bd41-565be0a1f5ff" />
 
 ---
 
 ## 🎯 Key Projects & Initiatives
 
-### 🤖 **YecoAI** - AI research Platform
-Building enterprise-grade AI solutions with:
-- Custom LLM integrations (GPT-4, Claude, local models)
-- Multi-agent orchestration & collaboration
-- Advanced prompt engineering & optimization
-- RAG (Retrieval-Augmented Generation) systems
+<table align="center">
+<tr>
+<td align="center">
 
-### 🏢 **EnderDevelopment** - Full-Stack Solutions
-Enterprise development services including:
-- Web & mobile application development
-- AI/ML system integration
-- Game server infrastructure
-- Cybersecurity assessments
+### YecoAI
+[![Website](https://img.shields.io/badge/Website-Visit-16a34a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yecoai.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Go-16a34a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YecoAI)
 
-### 🔐 **CyberKit** - Security Toolkit
-Open-source cybersecurity suite with tools for:
-- Network analysis (Ping, Traceroute, Whois)
-- Web security testing (HTTP headers, XSS detection)
-- Password strength evaluation & generation
-- Hash generation & cryptographic operations
+</td>
+<td align="center">
+
+### EnderDevelopment
+[![Website](https://img.shields.io/badge/Website-Visit-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://enderdevelopment.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Go-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnderDevelopment)
+
+</td>
+<td align="center">
+
+### CyberKit
+[![Website](https://img.shields.io/badge/Website-Visit-dc2626?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cyberkit.mylaby.space)  
+[![GitHub](https://img.shields.io/badge/GitHub-Go-dc2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HighMark-31/CyberKit)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,15 +89,6 @@ Open-source cybersecurity suite with tools for:
 
 ---
 
-## 💡 Current Focus
-
-- 🔬 **Advanced AI Engineering**: Multi-agent systems, prompt optimization, RAG implementations
-- 🌍 **Scalable Backend Architecture**: Microservices, distributed systems, cloud-native solutions
-- 🔐 **Security Enhancement**: Continuous security testing, vulnerability assessment, best practices
-- 🚀 **Performance Optimization**: Code optimization, database tuning, DevOps automation
-
----
-
 ## 📖 Philosophy
 
 > *"Code is poetry. AI is the future. Security is not optional."*
@@ -134,6 +100,15 @@ I believe in:
 - **Collaboration** - Open source contributions and community engagement
 - **Innovation** - Exploring cutting-edge technologies like AI agents and LLMs
 
+## 3D Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/diff/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iotserver24/iotserver24/diff/profile-season-animate.svg">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/iotserver24/iotserver24/diff/profile-season-animate.svg">
+</picture>
+
+
 ---
 
 <div align="center">
@@ -143,9 +118,5 @@ I believe in:
 **Open to collaborations on AI, web development, and cybersecurity projects.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-HighMark--31-181717?style=for-the-badge&logo=github)](https://github.com/HighMark-31)
-
----
-
-*"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
 
 </div>
