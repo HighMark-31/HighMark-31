@@ -66,11 +66,7 @@ I'm Marco, a 17-year veteran in IT with deep expertise in **full-stack developme
 
 <div align="center">
 
-![HighMark-31's GitHub stats](https://github-readme-stats.vercel.app/api?username=HighMark-31&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![Contribution Streak](https://nirzak-streak-stats.vercel.app/?user=HighMark-31&theme=vue-dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HighMark-31&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -100,13 +96,9 @@ I believe in:
 - **Collaboration** - Open source contributions and community engagement
 - **Innovation** - Exploring cutting-edge technologies like AI agents and LLMs
 
-## 3D Contribution Graph
+## 😎 3D Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HighMark-31/HighMark-31/diff/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HighMark-31/HighMark-31/diff/profile-season-animate.svg">
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/HighMark-31/HighMark-31/diff/profile-season-animate.svg">
-</picture>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 ---
