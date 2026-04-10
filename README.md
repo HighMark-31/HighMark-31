@@ -4,11 +4,13 @@
 
 ### **Full-Stack Developer | AI Engineer | Cybersecurity Enthusiast**
 
-**🎯 CEO @ EnderDevelopment** | **🤖 Founder @ YecoAI** | **🎮 Game (Minecraft) Developer**
+**📌 CEO @ EnderDevelopment** | **📍 Founder @ YecoAI** | **🧷 AI Architect**
 
 *Building intelligent systems, securing networks, and scaling businesses through code.*
 
 ---
+
+</div>
 
 > [!WARNING]
 > My **repositories** will unfortunately be updated less frequently.  
@@ -17,9 +19,6 @@
 >  
 > Thank you for your understanding! ❤️
 
-
-
-</div>
 
 ## 🚀 About Me
 
