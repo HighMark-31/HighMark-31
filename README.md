@@ -10,6 +10,15 @@
 
 ---
 
+> [!WARNING]
+> My **repositories** will unfortunately be updated less frequently.  
+> I am currently **very busy** and **looking for a job** *(Customer / Technical Support or Developer)* so I can *afford my first home*.  
+> **If someone is hiring, contact me !**
+>  
+> Thank you for your understanding! ❤️
+
+
+
 </div>
 
 ## 🚀 About Me
