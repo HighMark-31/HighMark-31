@@ -12,14 +12,6 @@
 
 </div>
 
-> [!WARNING]
-> My **repositories** will unfortunately be updated less frequently.  
-> I am currently **very busy** and **looking for a job** *(Customer / Technical Support or Developer)* so I can *afford my first home*.  
-> **If someone is hiring, contact me !**
->  
-> Thank you for your understanding! ❤️
-
-
 ## 🚀 About Me
 
 I'm Marco, a 17-year veteran in IT with deep expertise in **full-stack development**, **AI/ML engineering**, and **cybersecurity**. I thrive on solving complex problems and turning ideas into production-grade solutions.
