@@ -96,12 +96,6 @@ I believe in:
 - **Collaboration** - Open source contributions and community engagement
 - **Innovation** - Exploring cutting-edge technologies like AI agents and LLMs
 
-## 😎 3D Contribution Graph
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
----
 
 <div align="center">
 
