@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm Marco, a 17-year veteran in IT with deep expertise in **full-stack development**, **AI/ML engineering**, and **cybersecurity**. I thrive on solving complex problems and turning ideas into production-grade solutions.
+I'm Marco, a 1? (turning 18 the 31/05) -year veteran in IT with deep expertise in **full-stack development**, **AI/ML engineering**, and **cybersecurity**. I thrive on solving complex problems and turning ideas into production-grade solutions.
 
 **What I do:**
 - 🤖 **Design & Deploy AI Agents** - From LLM orchestration to autonomous workflows
